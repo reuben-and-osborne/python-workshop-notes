@@ -120,6 +120,8 @@ if age > 18  and income > 30000:
 	print("Eligible for a loan")
 else:
 	print("Not eligible for a loan")
+
+> Eligible for a loan
 ```
 ---
 ## Membership Operators 
