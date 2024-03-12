@@ -20,10 +20,12 @@ subtraction = x - y
 multiplication = x * y
 > 30
 ```
-**Divsion.** Divide one value by another.
+**Divsion.** Divide one value by another, the output from `/` is a float while the output `//` is an int (rounded down).
 ```python
 division = x / y 
 > 3.333333333333333
+division = x // y 
+> 3
 ```
 **Modulus.** Find the remainder of a divsion.
 ```python
