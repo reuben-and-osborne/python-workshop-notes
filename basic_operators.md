@@ -65,12 +65,12 @@ result = x < y
 **Greater than or equals to.** Checks if the value on the left is greater than or equal to the value on the right.
 ```
 result = x >= y
-> True
+> False
 ```
 **Less than or equals to.** Checks if the value on the left is less than or equal to the value on the right.
 ```
 result = x <= y
-> False
+> True
 ```
 ### Chained Comparison Operators:
 Chained comparisons are a concise way to make multiple comparisons in a single line.
